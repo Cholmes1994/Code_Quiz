@@ -1,13 +1,28 @@
 
 var questions = [
     {
-        title: "Example Question 1:",
-        choices: ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
+        title: "Which is a library commonly used in Javascript?",
+        choices: ["Bootstrap", "HTML", "jQuery", "CSS"],
         answer: "answer from choices"
     },
     {
-        title: "Example Question 2:",
-        choices: ["Choice 1", "Choice 2", "Choice 3", "Choice 4"],
+        title: "Which of these is NOT a semantic tag?",
+        choices: ["<div>", "<aside>", "<section>", "<article>"],
+        answer: "answer from choices"
+    },
+    {
+        title: "Which of these is a common framework for CSS?",
+        choices: ["jQuery", "Python", "Bootstrap", "React"],
+        answer: "answer from choices"
+    },
+    {
+        title: "What does DOM mean?",
+        choices: ["Document Object Model", "Digital Order Mover", "Document Open Master", "Document Order Machine"],
+        answer: "answer from choices"
+    },
+    {
+        title: "Which option is NOT a way a variable can be named?",
+        choices: ["const", "var", "let", "put"],
         answer: "answer from choices"
     }
 ];
