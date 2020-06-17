@@ -19,7 +19,9 @@ At the end of the quiz the user will be asked to enter his/her initials attached
 
 Technologies used:
     HTML
+    
     CSS
+   
     Javascript
 
 Launch Quiz:

@@ -1,29 +1,29 @@
-
+//Questions Array
 var questions = [
     {
         title: "Which is a library commonly used in Javascript?",
         choices: ["Bootstrap", "HTML", "jQuery", "CSS"],
-        answer: "answer from choices"
+        answer: "jQuery"
     },
     {
         title: "Which of these is NOT a semantic tag?",
         choices: ["<div>", "<aside>", "<section>", "<article>"],
-        answer: "answer from choices"
+        answer: "<div>"
     },
     {
         title: "Which of these is a common framework for CSS?",
         choices: ["jQuery", "Python", "Bootstrap", "React"],
-        answer: "answer from choices"
+        answer: "Bootstrap"
     },
     {
         title: "What does DOM mean?",
         choices: ["Document Object Model", "Digital Order Mover", "Document Open Master", "Document Order Machine"],
-        answer: "answer from choices"
+        answer: "Document Object Model"
     },
     {
         title: "Which option is NOT a way a variable can be created?",
         choices: ["const", "var", "let", "put"],
-        answer: "answer from choices"
+        answer: "put"
     }
 ];
 //Hook Elements from the HTML
