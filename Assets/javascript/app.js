@@ -21,7 +21,7 @@ var questions = [
         answer: "answer from choices"
     },
     {
-        title: "Which option is NOT a way a variable can be named?",
+        title: "Which option is NOT a way a variable can be created?",
         choices: ["const", "var", "let", "put"],
         answer: "answer from choices"
     }
