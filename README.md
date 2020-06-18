@@ -18,6 +18,7 @@ At the end of the quiz the user will be asked to enter his/her initials attached
 
 
 Technologies used:
+   
     HTML
     
     CSS
@@ -27,3 +28,6 @@ Technologies used:
 Launch Quiz:
     https://cholmes1994.github.io/Code_Quiz/
     
+Screen Shot:
+
+/Users/chris/Documents/UCF/Homework/Code_Quiz/Assets/Screen Shot 2020-06-18 at 10.13.50 AM.png
